@@ -89,7 +89,11 @@ Goal       : Growing as a technology enthusiast
   />
 </p>
 
-![My GitHub Game](game.gif)
+
+## 🚀 My GitHub Space Shooter
+
+![My GitHub Space Shooter](game.gif)
+
 
 <!-- Connect -->
 <h2>🌐 Connect with Me</h2>
