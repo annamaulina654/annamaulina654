@@ -1,4 +1,3 @@
-<!-- Animated Header -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=200&section=header&text=Anna%20Maulina&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20Student%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=58"
@@ -7,7 +6,6 @@
   />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Information+Systems+Student;Exploring+Full+Stack+Web+Development;Learning+Artificial+Intelligence;Building+and+Learning+Every+Day"
@@ -15,7 +13,6 @@
   />
 </p>
 
-<!-- Introduction -->
 <h2 align="center">Hi there, I'm Anna <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 <p align="center">
@@ -26,7 +23,6 @@
 
 ---
 
-<!-- About Me -->
 <h2>🪻 About Me</h2>
 
 ```text
@@ -44,7 +40,6 @@ Goal       : Growing as a technology enthusiast
 
 ---
 
-<!-- Tech Stack -->
 <h2>🛠️ Tech Stack</h2>
 
 <p align="left">
@@ -53,7 +48,6 @@ Goal       : Growing as a technology enthusiast
 
 ---
 
-<!-- GitHub Statistics -->
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -95,7 +89,6 @@ Goal       : Growing as a technology enthusiast
 ![My GitHub Space Shooter](game.gif)
 
 
-<!-- Connect -->
 <h2>🌐 Connect with Me</h2>
 
 <p align="left">
@@ -111,7 +104,6 @@ Goal       : Growing as a technology enthusiast
   <i>"Always curious. Always learning. Always building."</i>
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=100&section=footer"
